@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/anna-bogusz/testing/tree/master.svg?style=svg)](https://circleci.com/gh/anna-bogusz/testing/tree/master)
 
 
 
