@@ -1,1 +1,1 @@
-[Welcome!].(welcome.md)
+[Welcome!](welcome.md)
