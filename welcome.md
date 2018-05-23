@@ -1,1 +1,4 @@
-[Welcome!](welcome.md)
+##Welcome 
+
+Contents:
+- [Lorem](lorem.md)
