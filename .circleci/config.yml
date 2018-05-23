@@ -16,7 +16,7 @@ jobs:
       - run:
           name: run links tests
           command: |
-            awesome_bot -f README.md,welcome.md,lorem.md --base-url https://github.com/anna-bogusz/testing/blob/$CIRCLE_BRANCH/ 
+            awesome_bot -f README.md,welcome.md,lorem.md --base-url https://github.com/anna-bogusz/testing/$CIRCLE_BRANCH/ 
 
 workflows:
    version: 2
